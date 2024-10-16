@@ -1,0 +1,10 @@
+streamlit 
+PyPDF2 
+langchain 
+openai 
+langchain-openai 
+langchain-community 
+langchain-core 
+neo4j 
+chromadb
+langgarph
